@@ -101,7 +101,7 @@ __ToDo: 本部分内容需要更新__
 - [《量化交易》2量化交易工具-ETF和期货](https://www.youtube.com/watch?v=8L4OCThPSvE)
 
 
-### 2. 资料
+### 3.2 资料
 - 现货套利（三角、搬砖）
 - 期限套利
 - 跨期套利
@@ -110,23 +110,25 @@ __ToDo: 本部分内容需要更新__
 - [__历史数据集__](./dataset-数据集.md)
 
 
-### 3. 工具
+### 3.3 工具
 
 - [CCXT](https://github.com/ccxt/ccxt)：一个用 JS / Python / PHP 打造的支持超过100家交易所的加密货币交易库
 - [Catalyst](https://github.com/enigmampc/catalyst)：集成了CCXT的数字货币 交易回测 框架
 
-### 3. 常见问题
+### 3.4 常见问题
 - [为什么连不上交易所 API，上不了交易所？](https://gitee.com/inCryptoWeTrust/Crypto-Currency-Toturial/blob/master/%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98%E8%A7%A3%E7%AD%94.md)
 - [代码怎么上传到服务器，怎么方便的进行远程调试?](https://gitee.com/inCryptoWeTrust/Crypto-Currency-Toturial/blob/master/%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98%E8%A7%A3%E7%AD%94.md)
 - 开了小飞机，本地调试还是有问题？    
   --注意可能需要开全局
+- [cryptoTrading--用py做一些交易](https://github.com/inCryptoWeTrust/cryptoTrading)    
 - To be added...
 
 <br/>
 
 ## 参与贡献
 
-1. Fork 本项目
-2. 新建 Feat_xxx 分支
-3. 提交代码
-4. 新建 Pull Request
+1. 查看或者发起 Issue
+2. Fork 本项目
+3. 新建你的 Feature_xxx 分支
+4. 在新建的分支commit你的代码
+5. 发起 Pull Request
