@@ -60,13 +60,11 @@ __ToDo: 本部分内容需要更新__
 |[火币：国内老牌交易所](www.huobi.pro)|[P网：老牌山寨币平台](poloniex.com)|[LocalBitcoins：全球最大场外平台](localbitcoins.com)|
 |[ZB：老牌中比特后身 ](zb.com)|[Bithumb：韩国排名第一的交易平台](www.bithumb.com)|[可盈可乐：场外交易平台](www.coincola.com)|
 |[OKEX：支持法币和期货](www.okex.com)|[Hitbtc：英国领先的交易平台](hitbtc.com)|[OKEX C2C：OKEX场外](www.okex.com/c2c/trade/trade.do)|
-|[EXX：数字货币交易网 ](www.exx.com)|[KEX：可充值法币的韩国交易平台](www.kex.com)|[火币 C2C：火币场外](otc.huobi.pro)|
-|[KUCOIN：简单易用的数字货币交易网 ](www.kucoin.com)|[EtherDelta：去中心化第一交易平台](etherdelta.com)|[C2C：中比特场外](vip.zb.com)|
-|[比特儿：支持法币和各种分叉币 ](gate.io)|[Liqui：乌克兰优秀的交易平台](liqui.io)|[BitcoinWorld：比特币世界场外平台](bitcoinworld.com)|
-|[Bitfinex：世界第一的香港交易所](www.bitfinex.com/)|[Quoinex：日本最好的持照交易平台](quoinex.com/)|[LinkCoin：好用的场外交易平台](www.linkcoin.pro)|
-|[AEX：比特时代海外版 ](www.aex.com)|[BIT-Z：全球化数字货币交易平台](www.bit-z.com)|-|
-|[ALLCOIN：澳大利亚上市公司交易所 ](www.allcoin.com)|[BitMex：总部位于塞舌尔的交易平台](www.bitmex.com)|-|
-|[BigOne：老猫掌管的币币交易所 ](big.one)|[CME：比特币期货平台](www.cmegroup.com)|-|
+|[KUCOIN：简单易用的数字货币交易网 ](www.kucoin.com)| [Deribit：荷兰的比BTC/ETH期权交易平台](https://www.deribit.com/) |[C2C：中比特场外](vip.zb.com)|
+|[比特儿：支持法币和各种分叉币 ](gate.io)| [CME：比特币期货平台](www.cmegroup.com) |[BitcoinWorld：比特币世界场外平台](bitcoinworld.com)|
+|[Bitfinex：曾经第一的香港交易所](www.bitfinex.com/)|[Quoinex：日本最好的持照交易平台](quoinex.com/)|[LinkCoin：好用的场外交易平台](www.linkcoin.pro)|
+|[AEX：比特时代海外版 ](www.aex.com)| [BitMex：交易量最大的数字货币期货平台](www.bitmex.com) |[火币 C2C：火币场外](otc.huobi.pro)|
+
 <br/>
 如您有交易所推荐，或者认为上述交易所/平台存在问题，欢迎在issue中提出
 
