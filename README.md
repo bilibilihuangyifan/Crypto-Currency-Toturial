@@ -4,21 +4,55 @@
 
 # Crypto Currency Toturial
 
-#### 项目介绍
+## 项目介绍
 本项目主要收藏分享关于加密货币的入门资料，包括：
+
+- 加密货币/区块链基础
 - 交易入门
 - 数字货币量化入门
-- 加密货币/区块链知识
+- 
 
 <br/>
 
 **欢迎提交PR、分享知识～**
-QQ交流群：150134435
-Telegram：
 
-### 交易入门
+QQ交流群: 150134435        
+Telegram: 
 
-#### 1. 交易所
+## 1. 加密货币/区块链基础
+
+
+### 1.1 文章
+
+- [比特币白皮书 中文](https://www.8btc.com/wiki/bitcoin-a-peer-to-peer-electronic-cash-system)    
+  [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf)
+- [以太坊白皮书 中文](https://github.com/ethereum/wiki/wiki/%5B%E4%B8%AD%E6%96%87%5D-%E4%BB%A5%E5%A4%AA%E5%9D%8A%E7%99%BD%E7%9A%AE%E4%B9%A6)    
+  [A Next-Generation Smart Contract and Decentralized Application Platform](https://github.com/ethereum/wiki/wiki/White-Paper)
+- [以太坊黄皮书中文](https://github.com/yuange1024/ethereum_yellowpaper)    
+  [Eethereum: A Secure Decentralised Generalised Transaction Ledger](https://ethereum.github.io/yellowpaper/paper.pdf)
+- To be added...
+
+### 1.2 书籍
+
+- [<<区块链：从数字货币到信用社会>>](https://weidian.com/item.html?itemID=1878011740)
+- [<<精通比特币>>](http://book.8btc.com/books/1/master_bitcoin/_book/)
+- [<<区块链技术指南>>](https://github.com/yeasy/blockchain_guide)
+- [More](http://8btc.com/thread-65335-1-1.html)
+> To be added
+
+### 1.3 视频
+
+- [火币100区块链问系列视频](https://www.bilibili.com/video/av19985303/)
+- [比特币交易入门系列（2）如何了解比特币技术](https://www.bilibili.com/video/av12707728)
+
+<br/>
+
+
+## 2. 交易入门
+
+### 2.1 交易所
+
+__ToDo: 本部分内容需要更新__
 
 |国内交易所|国外交易所|场外交易所|
 |--|--|--|
@@ -37,26 +71,22 @@ Telegram：
 如您有交易所推荐，或者认为上述交易所/平台存在问题，欢迎在issue中提出
 
 
-#### 2. 如何进行第一笔交易
-To be added  
+### 2.2 如何进行第一笔交易
 
-- [【Huangyifan】比特币交易入门系列 (1)](https://www.bilibili.com/video/av12472273)
-- [【Huangyifan】比特币交易入门系列（3）交易基本操作](比特币交易入门系列（3）交易基本操作)
+- [比特币交易入门系列 (1)](https://www.bilibili.com/video/av12472273)
+- [比特币交易入门系列（3）交易基本操作](比特币交易入门系列（3）交易基本操作)
+- To be added...
 
 <br/>
 
-#### 3. xxx
 
+## 3. 数字货币量化交易入门
 
+### 3.1 视频
 
-### 数字货币量化交易入门
+- [比特币交易入门系列（7）网格做市1](https://www.bilibili.com/video/av13883186)
 
-#### 1. 视频
-
-
-- [【Huangyifan】比特币交易入门系列（7）网格做市1](https://www.bilibili.com/video/av13883186)
-
-- [【Huangyifan】比特币交易进阶系列（1）](https://www.bilibili.com/video/av17348683)
+- [比特币交易进阶系列（1）](https://www.bilibili.com/video/av17348683)
 
 - [数字货币量化交易1 【群友 Shadow 自制】ccxt 的python版本安装及使用入门](https://www.bilibili.com/video/av21795165)
 
@@ -73,50 +103,30 @@ To be added
 - [《量化交易》2量化交易工具-ETF和期货](https://www.youtube.com/watch?v=8L4OCThPSvE)
 
 
-#### 2. 资料
+### 2. 资料
 - 现货套利（三角、搬砖）
 - 期限套利
 - 跨期套利
 - 期权
-- pass
-- [历史数据集](https://gitee.com/inCryptoWeTrust/Crypto-Currency-Toturial/blob/master/dataset-%E6%95%B0%E6%8D%AE%E9%9B%86.md)
+- xxx
+- [__历史数据集__](./dataset-数据集.md)
 
 
-#### 3. 工具
+### 3. 工具
 
 - [CCXT](https://github.com/ccxt/ccxt)：一个用 JS / Python / PHP 打造的支持超过100家交易所的加密货币交易库
 - [Catalyst](https://github.com/enigmampc/catalyst)：集成了CCXT的数字货币 交易回测 框架
 
-#### 3. 常见问题
+### 3. 常见问题
 - [为什么连不上交易所 API，上不了交易所？](https://gitee.com/inCryptoWeTrust/Crypto-Currency-Toturial/blob/master/%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98%E8%A7%A3%E7%AD%94.md)
 - [代码怎么上传到服务器，怎么方便的进行远程调试?](https://gitee.com/inCryptoWeTrust/Crypto-Currency-Toturial/blob/master/%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98%E8%A7%A3%E7%AD%94.md)
-- 开了小飞机，本地调试还是有问题？
-> 注意可能需要开全局
-
-### 
-
-#### 1. 文章
-
-> To be added
-
-
-#### 2. 书籍
-
-- [<<区块链：从数字货币到信用社会>>](https://weidian.com/item.html?itemID=1878011740)
-- [<<精通比特币>>](http://book.8btc.com/books/1/master_bitcoin/_book/)
-- [<<区块链技术指南>>](https://github.com/yeasy/blockchain_guide)
-- [More](http://8btc.com/thread-65335-1-1.html)
-> To be added
-
-#### 3. 视频
-
-- 火币100区块链问系列视频
-- [比特币交易入门系列（2）如何了解比特币技术](https://www.bilibili.com/video/av12707728)
+- 开了小飞机，本地调试还是有问题？    
+  --注意可能需要开全局
+- To be added...
 
 <br/>
 
-
-#### 参与贡献
+## 参与贡献
 
 1. Fork 本项目
 2. 新建 Feat_xxx 分支
